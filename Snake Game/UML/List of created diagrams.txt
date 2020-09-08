@@ -1,0 +1,1 @@
+There are: Activity, Class, Object, Sequence, State Machine and Use Case diagrams
